@@ -14,6 +14,17 @@ Identificar características y patrones asociados a la readmisión hospitalaria 
 
 * diabetic_data.csv: extracción de datos a formato CSV 
 * diabetic_Analisis.ipynb: notebook con el análisis exploratorio, descriptivo y de asociación.
+
+🔍 Hallazgos Principales
+
+* Los pacientes con 4+ hospitalizaciones previas tienen una tasa de readmisión de 30.7% — casi 4      veces más que los pacientes sin hospitalizaciones 
+  previas (8.4%).
+
+* El grupo de 20-30 años presenta la tasa más alta de readmisión (14.2%), superando a los grupos 
+  de mayor edad.
+
+* La edad avanzada y el diagnóstico cardiovascular no son predictores relevantes de readmisión 
+  temprana en este dataset.
   
 💻 Tecnologías
 
@@ -26,17 +37,6 @@ Identificar características y patrones asociados a la readmisión hospitalaria 
 * pandas — manipulación y análisis de datos
 * numpy — operaciones numéricas
 * matplotlib — visualizaciones
-
-🔍 Hallazgos Principales
-
-* Los pacientes con 4+ hospitalizaciones previas tienen una tasa de readmisión de 30.7% — casi 4      veces más que los pacientes sin hospitalizaciones 
-  previas (8.4%).
-
-* El grupo de 20-30 años presenta la tasa más alta de readmisión (14.2%), superando a los grupos 
-  de mayor edad.
-
-* La edad avanzada y el diagnóstico cardiovascular no son predictores relevantes de readmisión 
-  temprana en este dataset.
   
 👩‍⚕️ Autora
 
