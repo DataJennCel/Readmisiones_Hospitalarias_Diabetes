@@ -13,7 +13,7 @@ Identificar características y patrones asociados a la readmisión hospitalaria 
 📁 Contenido
 
 * diabetic_data.csv: extracción de datos a formato CSV 
-* diabetic_Analisis.ipyn: notebook con el análisis exploratorio, descriptivo y de asociación.
+* diabetic_Analisis.ipynb: notebook con el análisis exploratorio, descriptivo y de asociación.
   
 💻 Tecnologías
 
